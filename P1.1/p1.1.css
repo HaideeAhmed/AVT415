@@ -1,0 +1,28 @@
+@charset "UTF-8";
+/* CSS Document */
+@charset "UTF-8";
+/* CSS Document */
+
+html {font-size: 100%;} /*16px*/
+
+body {
+  background-color: #F3EAF3;
+  color: #AB0C6C;
+  margin: 0;
+  padding: 50px;
+  line-height: 1.75;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+}
+h1 {
+
+  font-size: 4em;
+}
+
+h2 {font-size: 2em;
+
+}
+
+p {font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+font-size: 1.2em;
+	color: #BC6E92;
+}
