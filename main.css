@@ -14,8 +14,9 @@ body {
 h1 {
 
   font-size: 8em;
-	color: #587A62;
+	color: #303C34;
 	width: 1440;
+	font-family: 'cursive';
 }
 
 h2 {font-size: 3em;
