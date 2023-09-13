@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {font-size: 100%;} /*16px*/
+
+body {
+  background-color: #F6FDF7;
+  color: #244D37;
+  margin: 0;
+  padding: 50px;
+  line-height: 1.75;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+}
+h1 {
+
+  font-size: 8em;
+	color: #587A62;
+	width: 1440;
+}
+
+h2 {font-size: 3em;
+
+}
+
+h4 {font-size: 1.5em;
+margin-top: 0;
+
+}
+
+dt {
+	font-size: 2em;
+	font-weight: bold;
+}
