@@ -17,6 +17,7 @@ h1 {
 	color: #303C34;
 	width: 1440;
 	font-family: 'cursive';
+	text-align: center;
 }
 
 h2 {font-size: 3em;
@@ -31,4 +32,8 @@ margin-top: 0;
 dt {
 	font-size: 2em;
 	font-weight: bold;
+}
+.column {
+  float: left;
+  width: 50%;
 }
