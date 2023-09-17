@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {font-size: 100%;
+} /*16px*/
+
+body {
+	background-color: #FCFBEC;
+    margin: 0;
+    padding: 50px;
+    line-height: 1.6;
+}
+h1  {
+	text-align: center;
+	color: #9E3032;
+}
+h2  {
+	text-align: center;
+}
+p   {
+	line-height: 1.5;
+}
+.title {font-family: 'monospace', 'Kailasa Bold', 'cursive', 'fantasy', Sathu, 'Sukhumvit Set Bold', 'Khmer Sangam MN', 'Myanmar MN';
+	font-size: 1.2em;
+	color: #9E3032;
+	
+}
